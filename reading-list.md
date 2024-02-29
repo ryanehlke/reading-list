@@ -17,6 +17,9 @@ Jolly Lad (John Doran) -
 Assembling Black Counter Culture (DeForrest Brown Jr.) -
 [Primary Information](https://primaryinformation.org/product/assembling-a-black-counter-culture/)
 
+The Blue Moment (Richard Williams) -
+[Faber & Faber](https://www.faber.co.uk/product/9780571261178-the-blue-moment/)
+
 ## Read
 
 This Is Memorial Device (David Keenan) -

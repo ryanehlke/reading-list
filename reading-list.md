@@ -1,7 +1,5 @@
 # Reading List
 
-## To Read
-
 Underland (Robert MacFarlane) -
 [Penguin](https://www.penguin.co.uk/books/56082/underland-by-macfarlane-robert/9780141030579)
 
@@ -23,7 +21,7 @@ Assembling Black Counter Culture (DeForrest Brown Jr.) -
 The Blue Moment (Richard Williams) -
 [Faber & Faber](https://www.faber.co.uk/product/9780571261178-the-blue-moment/)
 
-## Read
+---
 
 This Is Memorial Device (David Keenan) -
 [Faber & Faber](https://www.faber.co.uk/product/9780571330850-this-is-memorial-device/)

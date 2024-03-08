@@ -1,8 +1,5 @@
 # Reading List
 
-Underland (Robert MacFarlane) -
-[Penguin](https://www.penguin.co.uk/books/56082/underland-by-macfarlane-robert/9780141030579)
-
 Neutron Stars (Katia Moskvitch) -
 [Harvard University Press](https://www.hup.harvard.edu/books/9780674919358)
 
@@ -25,3 +22,6 @@ The Blue Moment (Richard Williams) -
 
 This Is Memorial Device (David Keenan) -
 [Faber & Faber](https://www.faber.co.uk/product/9780571330850-this-is-memorial-device/)
+
+Underland (Robert MacFarlane) -
+[Penguin](https://www.penguin.co.uk/books/56082/underland-by-macfarlane-robert/9780141030579)

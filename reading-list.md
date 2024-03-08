@@ -5,6 +5,9 @@
 Underland (Robert MacFarlane) -
 [Penguin](https://www.penguin.co.uk/books/56082/underland-by-macfarlane-robert/9780141030579)
 
+Neutron Stars (Katia Moskvitch) -
+[Harvard University Press](https://www.hup.harvard.edu/books/9780674919358)
+
 Junglist (James T Kirk, Two Fingas) -
 [Repeater Books](https://repeaterbooks.com/product/junglist/)
 

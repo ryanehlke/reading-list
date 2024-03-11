@@ -1,10 +1,10 @@
 # Reading List
 
-The Mind of a Bee (Lars Chittka) -
-[Princeton University Press](https://press.princeton.edu/books/paperback/9780691253893/the-mind-of-a-bee)
-
 Neutron Stars (Katia Moskvitch) -
 [Harvard University Press](https://www.hup.harvard.edu/books/9780674919358)
+
+The Mind of a Bee (Lars Chittka) -
+[Princeton University Press](https://press.princeton.edu/books/paperback/9780691253893/the-mind-of-a-bee)
 
 Junglist (James T Kirk, Two Fingas) -
 [Repeater Books](https://repeaterbooks.com/product/junglist/)
